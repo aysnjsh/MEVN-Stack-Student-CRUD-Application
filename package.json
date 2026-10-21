@@ -1,0 +1,16 @@
+{
+  "name": "finals-mevn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Student Management MEVN CRUD application — Finals Lab Activity 4",
+  "workspaces": ["backend", "frontend"],
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "setup": "node scripts/setup.cjs",
+    "dev": "concurrently -k -n API,VUE -c blue,cyan \"npm run dev -w backend\" \"npm run dev -w frontend\"",
+    "build": "npm run build -w frontend",
+    "start": "npm start -w backend",
+    "test": "npm test -w backend"
+  },
+  "devDependencies": { "concurrently": "^9.2.1" }
+}

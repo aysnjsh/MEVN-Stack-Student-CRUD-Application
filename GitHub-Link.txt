@@ -1,0 +1,5 @@
+REPLACE THIS LINE WITH YOUR ACTUAL PUBLIC GITHUB REPOSITORY URL.
+
+Create a new repository named finals-mevn (or another name of your choice),
+upload this project's source files, and paste the resulting URL here.
+Do not submit this placeholder as your repository link.

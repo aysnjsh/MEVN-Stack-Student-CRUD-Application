@@ -1,0 +1,1 @@
+<template><section class="surface empty-state"><p class="eyebrow">404 · PAGE NOT FOUND</p><h1>This page isn't in the directory.</h1><p>Use the navigation above or return to your students.</p><router-link class="btn btn-primary" to="/view">View Students</router-link></section></template>

@@ -1,0 +1,32 @@
+FINALS LAB ACTIVITY 4 — STUDENTDESK
+
+1. Extract this ZIP. Open the finals-mevn folder in VS Code.
+2. Open Terminal > New Terminal.
+3. Run: npm install
+4. Run: npm run setup
+5. Open backend/.env and enter your own MongoDB Atlas URI.
+   Or keep the local URI if MongoDB Community Server is running.
+6. Run: npm run dev
+7. Open http://localhost:8080
+
+PERSONALIZE BEFORE SUBMITTING
+- Open frontend/src/data/profile.js.
+- Replace YOUR_EMAIL@example.com and YOUR BARANGAY.
+- Verify name, degree, specialization, section, city, and province.
+- Save your photo as frontend/public/profile.jpg.
+- In profile.js set photo: '/profile.jpg'.
+
+GITHUB
+- Follow docs/GITHUB-UPLOAD.md.
+- Upload the SOURCE FILES, not just the ZIP.
+- The repository must be public.
+- Put the actual repository URL in GitHub-Link.txt.
+
+RECORDING
+- Follow docs/RECORDING-GUIDE.md.
+- Record Create > View > Edit > Delete > Profile.
+- Add the recording to your final Canvas submission ZIP.
+
+This package does not contain your actual photo, unknown profile details,
+an Atlas account/connection, a created GitHub repository, or your recording.
+These must be completed before the final assignment submission.
